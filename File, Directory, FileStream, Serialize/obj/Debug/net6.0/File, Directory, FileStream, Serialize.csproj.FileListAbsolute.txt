@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\File, Directory, FileStream, Serialize.exe
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\File, Directory, FileStream, Serialize.deps.json
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\File, Directory, FileStream, Serialize.runtimeconfig.json
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\File, Directory, FileStream, Serialize.dll
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\File, Directory, FileStream, Serialize.pdb
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.dll
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\refint\File, Directory, FileStream, Serialize.dll
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.pdb
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\ref\File, Directory, FileStream, Serialize.dll
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Projects\File, Directory, FileStream, Serialize\File, Directory, FileStream, Serialize\obj\Debug\net6.0\File, Directory, FileStream, Serialize.csproj.CopyComplete
